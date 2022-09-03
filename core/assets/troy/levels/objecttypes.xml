@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="DynamicObstacle" color="#e3df00">
+  <property name="Period" type="float" default="1"/>
+  <property name="Radius" type="float" default="-1"/>
+  <property name="id" type="int" default="-1"/>
+ </objecttype>
+ <objecttype name="Enemy" color="#000000">
+  <property name="Radius" type="float" default="-1"/>
+  <property name="id" type="int" default="-1"/>
+  <property name="isFriendly" type="bool" default="false"/>
+ </objecttype>
+ <objecttype name="PathPoint" color="#ff0b00">
+  <property name="id" type="int" default="-1"/>
+ </objecttype>
+ <objecttype name="Resizeable" color="#e8c5f8">
+  <property name="MaxRadius" type="float" default="-1"/>
+  <property name="MinRadius" type="float" default="-1"/>
+  <property name="PlanetColor" type="string" default="BLUE"/>
+  <property name="Radius" type="float" default="-1"/>
+ </objecttype>
+ <objecttype name="Reward" color="#b3ae65">
+  <property name="Radius" type="float" default="1"/>
+  <property name="id" type="int" default="-1"/>
+ </objecttype>
+ <objecttype name="StaticObstacle" color="#6dfaff">
+  <property name="Radius" type="float" default="-1"/>
+  <property name="StaticType" type="string" default="null"/>
+ </objecttype>
+ <objecttype name="TriggerArea" color="#b35a68">
+  <property name="id" type="int" default="-1"/>
+ </objecttype>
+ <objecttype name="Warp" color="#a0a0a4">
+  <property name="id" type="int" default="-1"/>
+ </objecttype>
+</objecttypes>

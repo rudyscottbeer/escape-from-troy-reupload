@@ -1,0 +1,303 @@
+{ "compressionlevel":1,
+ "height":3,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[1, 2, 3,
+            4, 5, 6,
+            7, 8, 9],
+         "height":3,
+         "id":1,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":3,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[10, 11, 12,
+            13, 14, 15,
+            16, 17, 18],
+         "height":3,
+         "id":3,
+         "name":"Tile Layer 2",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":3,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[19, 20, 21,
+            22, 23, 24,
+            25, 26, 27],
+         "height":3,
+         "id":4,
+         "name":"Tile Layer 3",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":3,
+         "x":0,
+         "y":0
+        },
+    
+        {
+         "data":[28, 29, 30,
+            31, 32, 33,
+            34, 35, 36],
+         "height":3,
+         "id":5,
+         "name":"Tile Layer 4",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":3,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[37, 38, 39,
+            40, 41, 42,
+            43, 44, 45],
+         "height":3,
+         "id":6,
+         "name":"Tile Layer 5",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":3,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[46, 47, 48,
+            49, 50, 51,
+            52, 53, 54],
+         "height":3,
+         "id":7,
+         "name":"Tile Layer 6",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":3,
+         "x":0,
+         "y":0
+        },
+    
+        {
+         "draworder":"topdown",
+         "id":2,
+         "name":"Objects",
+         "objects":[
+                {
+                 "height":0,
+                 "id":997,
+                 "name":"",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"StaticType",
+                         "type":"string",
+                         "value":"entry"
+                        }],
+                 "rotation":0,
+                 "type":"StaticObstacle",
+                 "visible":true,
+                 "width":0,
+                 "x":1440.15017020956,
+                 "y":1322.40827098726
+                }, 
+                {
+                 "height":0,
+                 "id":999,
+                 "name":"",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"StaticType",
+                         "type":"string",
+                         "value":"goal"
+                        }],
+                 "rotation":0,
+                 "type":"StaticObstacle",
+                 "visible":true,
+                 "width":0,
+                 "x":3023.82441406832,
+                 "y":1322.41
+                }, 
+                {
+                 "height":565.934065934066,
+                 "id":2107,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"SwarmNumber",
+                         "type":"int",
+                         "value":5
+                        }, 
+                        {
+                         "name":"id",
+                         "type":"int",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"TriggerArea",
+                 "visible":true,
+                 "width":291.208791208791,
+                 "x":1725.27472527473,
+                 "y":1060.43956043956
+                },
+            
+                {
+                 "height":0,
+                 "id":2108,
+                 "name":"",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"id",
+                         "type":"int",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"PathPoint",
+                 "visible":true,
+                 "width":0,
+                 "x":1307.69230769231,
+                 "y":1313.18681318681
+                }, 
+                {
+                 "height":0,
+                 "id":2110,
+                 "name":"",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"StaticType",
+                         "type":"string",
+                         "value":"checkpoint"
+                        }],
+                 "rotation":0,
+                 "type":"Reward",
+                 "visible":true,
+                 "width":0,
+                 "x":2044.80410433733,
+                 "y":1309.96940787289
+                }, 
+                {
+                 "height":0,
+                 "id":2111,
+                 "name":"",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"StaticType",
+                         "type":"string",
+                         "value":"checkpoint"
+                        }],
+                 "rotation":0,
+                 "type":"StaticObstacle",
+                 "visible":true,
+                 "width":0,
+                 "x":1720.86148648649,
+                 "y":1317.56756756757
+                },
+            
+                {
+                 "height":0,
+                 "id":2112,
+                 "name":"",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"id",
+                         "type":"int",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "type":"PathPoint",
+                 "visible":true,
+                 "width":0,
+                 "x":3089.29182346904,
+                 "y":1320.56106739651
+                }, 
+                {
+                 "height":565.934,
+                 "id":2113,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"SwarmNumber",
+                         "type":"int",
+                         "value":5
+                        }, 
+                        {
+                         "name":"id",
+                         "type":"int",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "type":"TriggerArea",
+                 "visible":true,
+                 "width":291.209,
+                 "x":2423.67363889839,
+                 "y":1068.38435135135
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":8,
+ "nextobjectid":2114,
+ "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"name",
+         "type":"string",
+         "value":"Star Struck"
+        }],
+ "renderorder":"right-down",
+ "tiledversion":"1.8.4",
+ "tileheight":1080,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/tilesets\/level1\/easy-background.tsj"
+        }, 
+        {
+         "firstgid":10,
+         "source":"..\/tilesets\/level1\/easy-squares.tsj"
+        }, 
+        {
+         "firstgid":19,
+         "source":"..\/tilesets\/level1\/easy-cloud.tsj"
+        },
+    
+        {
+         "firstgid":28,
+         "source":"..\/tilesets\/level1\/easy-city.tsj"
+        }, 
+        {
+         "firstgid":37,
+         "source":"..\/tilesets\/level1\/easy-mountain.tsj"
+        }, 
+        {
+         "firstgid":46,
+         "source":"..\/tilesets\/level1\/easy-water.tsj"
+        },
+    
+        {
+         "firstgid":55,
+         "source":"..\/tilesets\/level1\/obstacles\/resizable.tsj"
+        }],
+ "tilewidth":1980,
+ "type":"map",
+ "version":"1.8",
+ "width":3
+}

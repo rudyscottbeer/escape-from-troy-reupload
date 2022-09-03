@@ -1,0 +1,19 @@
+{ "columns":1,
+ "image":"planet-yellow.png",
+ "imageheight":1000,
+ "imagewidth":1000,
+ "margin":0,
+ "name":"planet-yellow",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.8.4",
+ "tileheight":1000,
+ "tileoffset":
+    {
+     "x":-500,
+     "y":500
+    },
+ "tilewidth":1000,
+ "type":"tileset",
+ "version":"1.8"
+}

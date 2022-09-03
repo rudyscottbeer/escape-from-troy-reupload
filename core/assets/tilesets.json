@@ -1,0 +1,78 @@
+{
+    "jsons": {
+        "level1:easy-background":"troy/tilesets/level1/easy-background.tsj",
+        "level1:easy-squares":"troy/tilesets/level1/easy-squares.tsj",
+        "level1:easy-cloud":"troy/tilesets/level1/easy-cloud.tsj",
+        "level1:easy-city":"troy/tilesets/level1/easy-city.tsj",
+        "level1:easy-mountain":"troy/tilesets/level1/easy-mountain.tsj",
+        "level1:easy-water":"troy/tilesets/level1/easy-water.tsj",
+
+        "level1:resizable":"troy/tilesets/level1/obstacles/resizable.tsj"
+    },
+
+	"textures": {
+      "level1:easy-background1":"troy/tilesets/level1/easybg-layer1-background-01.png",
+          "level1:easy-background2":"troy/tilesets/level1/easybg-layer1-background-02.png",
+          "level1:easy-background3":"troy/tilesets/level1/easybg-layer1-background-03.png",
+          "level1:easy-background4":"troy/tilesets/level1/easybg-layer1-background-04.png",
+          "level1:easy-background5":"troy/tilesets/level1/easybg-layer1-background-05.png",
+          "level1:easy-background6":"troy/tilesets/level1/easybg-layer1-background-06.png",
+          "level1:easy-background7":"troy/tilesets/level1/easybg-layer1-background-07.png",
+          "level1:easy-background8":"troy/tilesets/level1/easybg-layer1-background-08.png",
+          "level1:easy-background9":"troy/tilesets/level1/easybg-layer1-background-09.png",
+
+          "level1:easy-squares1":"troy/tilesets/level1/easybg-layer2-squares-01.png",
+          "level1:easy-squares2":"troy/tilesets/level1/easybg-layer2-squares-02.png",
+          "level1:easy-squares3":"troy/tilesets/level1/easybg-layer2-squares-03.png",
+          "level1:easy-squares4":"troy/tilesets/level1/easybg-layer2-squares-04.png",
+          "level1:easy-squares5":"troy/tilesets/level1/easybg-layer2-squares-05.png",
+          "level1:easy-squares6":"troy/tilesets/level1/easybg-layer2-squares-06.png",
+          "level1:easy-squares7":"troy/tilesets/level1/easybg-layer2-squares-07.png",
+          "level1:easy-squares8":"troy/tilesets/level1/easybg-layer2-squares-08.png",
+          "level1:easy-squares9":"troy/tilesets/level1/easybg-layer2-squares-09.png",
+
+          "level1:easy-cloud1":"troy/tilesets/level1/easybg-layer3-cloud_sun-01(empty).png",
+          "level1:easy-cloud2":"troy/tilesets/level1/easybg-layer3-cloud_sun-02(empty).png",
+          "level1:easy-cloud3":"troy/tilesets/level1/easybg-layer3-cloud_sun-03(empty).png",
+          "level1:easy-cloud4":"troy/tilesets/level1/easybg-layer3-cloud_sun-04.png",
+          "level1:easy-cloud5":"troy/tilesets/level1/easybg-layer3-cloud_sun-05.png",
+          "level1:easy-cloud6":"troy/tilesets/level1/easybg-layer3-cloud_sun-06.png",
+          "level1:easy-cloud7":"troy/tilesets/level1/easybg-layer3-cloud_sun-07.png",
+          "level1:easy-cloud8":"troy/tilesets/level1/easybg-layer3-cloud_sun-08.png",
+          "level1:easy-cloud9":"troy/tilesets/level1/easybg-layer3-cloud_sun-09.png",
+
+          "level1:easy-city1":"troy/tilesets/level1/easybg-layer4-city-01(empty).png",
+          "level1:easy-city2":"troy/tilesets/level1/easybg-layer4-city-02(empty).png",
+          "level1:easy-city3":"troy/tilesets/level1/easybg-layer4-city-03(empty).png",
+          "level1:easy-city4":"troy/tilesets/level1/easybg-layer4-city-04(empty).png",
+          "level1:easy-city5":"troy/tilesets/level1/easybg-layer4-city-05(empty).png",
+          "level1:easy-city6":"troy/tilesets/level1/easybg-layer4-city-06(empty).png",
+          "level1:easy-city7":"troy/tilesets/level1/easybg-layer4-city-07.png",
+          "level1:easy-city8":"troy/tilesets/level1/easybg-layer4-city-08.png",
+          "level1:easy-city9":"troy/tilesets/level1/easybg-layer4-city-09(empty).png",
+
+          "level1:easy-mountain1":"troy/tilesets/level1/easybg-layer5-mountain-01(empty).png",
+          "level1:easy-mountain2":"troy/tilesets/level1/easybg-layer5-mountain-02(empty).png",
+          "level1:easy-mountain3":"troy/tilesets/level1/easybg-layer5-mountain-03(empty).png",
+          "level1:easy-mountain4":"troy/tilesets/level1/easybg-layer5-mountain-04(empty).png",
+          "level1:easy-mountain5":"troy/tilesets/level1/easybg-layer5-mountain-05(empty).png",
+          "level1:easy-mountain6":"troy/tilesets/level1/easybg-layer5-mountain-06(empty).png",
+          "level1:easy-mountain7":"troy/tilesets/level1/easybg-layer5-mountain-07.png",
+          "level1:easy-mountain8":"troy/tilesets/level1/easybg-layer5-mountain-08.png",
+          "level1:easy-mountain9":"troy/tilesets/level1/easybg-layer5-mountain-09.png",
+
+          "level1:easy-water1":"troy/tilesets/level1/easybg-layer7-water-01(empty).png",
+          "level1:easy-water2":"troy/tilesets/level1/easybg-layer7-water-02(empty).png",
+          "level1:easy-water3":"troy/tilesets/level1/easybg-layer7-water-03(empty).png",
+          "level1:easy-water4":"troy/tilesets/level1/easybg-layer7-water-04.png",
+          "level1:easy-water5":"troy/tilesets/level1/easybg-layer7-water-05.png",
+          "level1:easy-water6":"troy/tilesets/level1/easybg-layer7-water-06.png",
+          "level1:easy-water7":"troy/tilesets/level1/easybg-layer7-water-07.png",
+          "level1:easy-water8":"troy/tilesets/level1/easybg-layer7-water-08.png",
+          "level1:easy-water9":"troy/tilesets/level1/easybg-layer7-water-09.png",
+
+          "level1:resizable1": "troy/tilesets/level1/obstacles/planet-blue.png",
+            "level1:resizable2": "troy/tilesets/level1/obstacles/planet-yellow.png"
+      }
+    }
+

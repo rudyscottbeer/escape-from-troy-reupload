@@ -1,0 +1,13 @@
+Go to my-packr-config.json and change these elements:
+    "jdk": <Your jdk>,
+    "classpath": [
+        <Your path to escape-from-troy>/escape-from-troy/out/artifacts/escape_from_troy_jar/escape-from-troy.jar
+    ],
+    "resources": [
+        <Your path to escape-from-troy>/escape-from-troy/core/assets
+    ],
+
+Then create a jar file as normal.
+
+Run 'java -jar packr-all-4.0.0.jar my-packr-config.json' from the packr folder and it should create a folder with
+everything you need!

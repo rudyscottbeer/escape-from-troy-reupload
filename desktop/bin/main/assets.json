@@ -1,0 +1,233 @@
+{
+	"textures": {
+      "prototype:blue_planet" : {
+        "file": "troy/images/blue_planet.png"
+      },
+      "prototype:green_planet" : {
+        "file": "troy/images/green_planet.png"
+      },
+      "prototype:pink_planet" : {
+        "file": "troy/images/pink_planet.png"
+      },
+      "prototype:purple_planet" : {
+        "file": "troy/images/purple_planet.png"
+      },
+      "prototype:sun_planet" : {
+        "file": "troy/images/sun_planet.png"
+      },
+      "prototype:yellow_planet" : {
+        "file": "troy/images/yellow_planet.png"
+      },
+      "prototype:yellow_planet_n" : {
+        "file": "troy/images/yellow_planet_n.png"
+      },
+      "prototype:pixel" : {
+        "file": "troy/images/pixel.png"
+      },
+      "prototype:ship" : {
+        "file": "troy/images/ship.png"
+      },
+      "prototype:ship1" : {
+        "file": "troy/images/spaceship-1.png"
+      },
+      "prototype:ship2" : {
+        "file": "troy/images/spaceship-2.png"
+      },
+      "prototype:ship3" : {
+        "file": "troy/images/spaceship-3.png"
+      },
+      "prototype:comet" : {
+        "file": "troy/images/comet.png"
+      },
+      "prototype:checkpoint" : {
+        "file": "troy/images/checkpoint-loop.png"
+      },
+      "prototype:highlight" : {
+        "file": "troy/images/planet-highlight.png"
+      },
+      "prototype:checkpoint_collected" : {
+        "file": "troy/images/checkpoint-hit.png"
+      },
+      "prototype:whitehole_start" : {
+        "file": "troy/images/whitehole-appear.png"
+      },
+      "prototype:whitehole_loop" : {
+        "file": "troy/images/whitehole-loop.png"
+      },
+      "prototype:blackhole_start" : {
+        "file": "troy/images/blackhole-appear.png"
+      },
+      "prototype:blackhole_loop" : {
+        "file": "troy/images/blackhole-loop.png"
+      },
+      "prototype:enemy" : {
+        "file": "troy/images/enemy.png"
+      },
+      "prototype:star-collect" : {
+        "file": "troy/images/star-collect.png"
+      },
+      "prototype:star-loop" : {
+        "file": "troy/images/star-loop.png"
+      },
+      "prototype:enemy-explode" : {
+        "file": "troy/images/enemy-explode.png"
+      },
+      "prototype:solar_flare" : {
+        "file": "troy/images/obstacle-solarflare.png"
+      },
+      "prototype:debug_planet" : {
+        "file": "troy/images/pink_planet.png"
+      },
+      "prototype:particle" : {
+        "file": "troy/images/particle-white.png"
+      },
+      "prototype:background" : {
+        "file": "troy/images/background.png"
+      },
+      "prototype:boundary_left" : {
+        "file" : "troy/images/boundary-left.png"
+      },
+      "prototype:boundary_right" : {
+        "file" : "troy/images/boundary-right.png"
+      },
+      "prototype:boundary_top" : {
+        "file" : "troy/images/boundary-top.png"
+      },
+      "prototype:boundary_bot" : {
+        "file" : "troy/images/boundary-bot.png"
+      },
+      "shared:debris" :  {
+          "file" : "troy/images/obstacle-debris.png"
+      },
+      "prototype:ship_collision" : {
+        "file": "troy/images/spaceship-collision.png"
+      },
+      "prototype:planet_resize_blue" : {
+        "file": "troy/images/planet-resize-blue.png"
+      },
+      "prototype:planet_resize_green" : {
+        "file": "troy/images/planet-resize-green.png"
+      },
+      "prototype:planet_resize_pink" : {
+        "file": "troy/images/planet-resize-pink.png"
+      },
+      "prototype:planet_resize_purple" : {
+        "file": "troy/images/planet-resize-purple.png"
+      },
+      "prototype:planet_resize_sun" : {
+        "file": "troy/images/planet-resize-sun.png"
+      },
+      "prototype:planet_resize_yellow" : {
+        "file": "troy/images/planet-resize-yellow.png"
+      },
+      "shared:goal" : {
+        "file": "troy/images/Resized_Whitehole.png"
+      },
+      "prototype:l1text" : {
+        "file": "troy/leveltext/Level1Text.png"
+      },
+      "prototype:l2text" : {
+        "file": "troy/leveltext/Level2Text1.png"
+      },
+      "prototype:l2text2" : {
+        "file": "troy/leveltext/Level2Text2.png"
+      },
+      "prototype:l3text" : {
+        "file": "troy/leveltext/Level3Text.png"
+      },
+
+      "prototype:l4text" : {
+        "file": "troy/leveltext/Level4Text.png"
+      },
+      "prototype:l5text" : {
+        "file": "troy/leveltext/Level5Text.png"
+      },
+      "prototype:l5text2" : {
+        "file": "troy/leveltext/Level5Text2.png"
+      },
+      "prototype:ml1text" : {
+        "file": "troy/leveltext/MediumLevel1Text.png"
+      },
+      "prototype:ml2text" : {
+        "file": "troy/leveltext/MediumLevel2Text.png"
+      },
+      "prototype:ml2text2" : {
+        "file": "troy/leveltext/MediumLevel2Text2.png"
+      },
+      "prototype:staricon": {
+        "file": "troy/images/star_icon.png"
+      },
+      "prototype:loreframe": {
+        "file": "troy/images/lore-frame.png"
+      },
+      "prototype:endscreen": {
+        "file": "troy/images/Ending_Screen_1.png"
+      },
+      "prototype:theend": {
+        "file": "troy/images/Ending_Screen_2.png"
+      },
+      "prototype:endtext1": {
+        "file": "troy/images/Ending_Screen_Text_1.png"
+      },
+      "prototype:endtext2": {
+        "file": "troy/images/Ending_Screen_Text_2.png"
+      },
+      "shared:entry": {
+        "file": "troy/images/Resized_Blackhole.png"
+      },
+      "minimap:ship": {
+        "file": "troy/images/minimap-square.png"
+      },
+      "minimap:planet": {
+        "file": "troy/images/minimap-planet.png"
+      },
+      "minimap:goal": {
+        "file": "troy/images/minimap-goal.png"
+      },
+      "minimap:checkpoint" : {
+        "file": "troy/images/minimap-checkpoint.png"
+      }
+    },
+    "jsons"  : {
+      "rocket:constants":  "troy/constants/rocket_constants.json",
+      "level:level1": "troy/levels/level1.tmj",
+      "level:level2": "troy/levels/level2.tmj",
+      "level:level3": "troy/levels/level3.tmj",
+      "level:level4": "troy/levels/level4.tmj",
+      "level:level5": "troy/levels/level5.tmj",
+      "level:level6": "troy/levels/level6.tmj",
+      "level:level7": "troy/levels/level7.tmj",
+      "level:level8": "troy/levels/rabbithole.tmj",
+      "level:level9": "troy/levels/furtherance.tmj",
+      "level:level10": "troy/levels/catacombcave.tmj",
+      "level:level11": "troy/levels/lightattheend.tmj",
+      "level:level12": "troy/levels/outofthefryingpan.tmj",
+      "level:level13": "troy/levels/intothefire.tmj",
+      "level:level14": "troy/levels/blastback.tmj",
+      "level:level15": "troy/levels/theroyalfleet.tmj"
+    },
+    "sounds" : {
+        "rocket:decreaseSize" : "troy/sounds/decrease_size.mp3",
+        "rocket:increaseSize" : "troy/sounds/increase_size.mp3",
+        "rocket:decelerate" : "troy/sounds/more_decelerate.mp3",
+        "rocket:accelerate" : "troy/sounds/more_accelerate.mp3",
+        "rocket:click" : "troy/sounds/click.wav",
+        "rocket:exit" : "troy/sounds/exit.mp3",
+        "rocket:enter" : "troy/sounds/enter.mp3",
+        "rocket:checkpoint" : "troy/sounds/sfx_checkpoint.mp3",
+        "rocket:collision" : "troy/sounds/collision.mp3",
+        "rocket:starCollect" : "troy/sounds/star_collect.mp3",
+        "rocket:shipExplode" : "troy/sounds/shipexplode.mp3"
+    },
+    "music": {
+        "rocket:intro" : "troy/musics/easy_level_intro.ogg",
+        "rocket:loop" : "troy/musics/easy_level_loop.ogg",
+        "rocket:enemyMusic" : "troy/musics/hard_level_loop.mp3"
+    },
+  "fonts": {
+        "shared:retro": {
+            "file": "troy/fonts/Montserrat-Regular.ttf",
+            "size": 64
+        }
+    }
+}

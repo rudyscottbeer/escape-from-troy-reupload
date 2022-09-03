@@ -1,0 +1,75 @@
+{
+    "textures": {
+        "background": "troy/title-screen.png",
+        "lore1": "troy/images/lore-1.png",
+        "lore2": "troy/images/lore-2.png",
+        "lore3": "troy/images/lore-3.png",
+        "lore4": "troy/images/lore-4.png",
+        "lore5": "troy/images/lore-5.png",
+        "lore6": "troy/images/lore-6.png",
+        "lore7": "troy/images/lore-7.png",
+        "loreframe": "troy/images/lore-frame.png",
+        "text": "troy/text/In-game Text.png",
+        "text1": "troy/text/In-game Text-1.png",
+        "text2": "troy/text/In-game Text-2.png",
+        "text3": "troy/text/In-game Text-3.png",
+        "text4": "troy/text/In-game Text-4.png",
+        "text5": "troy/text/In-game Text-5.png",
+        "text6": "troy/text/In-game Text-6.png",
+        "text7": "troy/text/In-game Text-7.png",
+        "text8": "troy/text/In-game Text-8.png",
+        "text9": "troy/text/In-game Text-9.png",
+        "text10": "troy/text/In-game Text-10.png",
+        "levelselect:background": "troy/levelselect/levelselect-all-bg.png",
+        "levelselect:easybg": "troy/levelselect/levelselect-easy.png",
+        "levelselect:mediumbg": "troy/levelselect/levelselect-medium.png",
+        "levelselect:hardbg": "troy/levelselect/levelselect-high.png",
+        "levelselect:easy": "troy/levelselect/levelselect-all-easy.png",
+        "levelselect:medium": "troy/levelselect/levelselect-all-medium.png",
+        "levelselect:hard": "troy/levelselect/levelselect-all-hard.png",
+        "levelselect:back": "troy/levelselect/Back_Button.png",
+        "title":"troy/eft-title.png",
+        "play": "troy/images/play.png",
+        "rectangle": "troy/images/Rectangle.png",
+        "slider:empty": "troy/images/Volume_Empty_Bar.png",
+        "slider:full": "troy/images/Volume_White_Bar.png",
+        "slider:knob": "troy/images/Volume_Knob.png",
+        "progress": {
+            "file": "troy/images/progressbar.png",
+            "atlas":     {
+                "background" : [0,   0, 1000, 12],
+                "backleft"   : [0,    0,  38, 12],
+                "backright"  : [962,  0, 1000, 12],
+                "foreground" : [0,  12, 1000, 24],
+                "foreleft"   : [0,   12,  38, 24],
+                "foreright"  : [962, 12, 1000, 24]
+            }
+        }
+    },
+    "fonts": {
+        "montserrat:regular": {
+            "file": "troy/fonts/Montserrat-Regular.ttf",
+            "size": 40
+        },
+        "montserrat:thin": {
+            "file": "troy/fonts/Montserrat-Thin.ttf",
+            "size": 38
+        },
+        "montserrat:light": {
+            "file": "troy/fonts/Montserrat-Light.ttf",
+            "size": 24
+        },
+        "montserratalternates:light-small": {
+            "file": "troy/fonts/MontserratAlternates-Light.ttf",
+            "size": 56
+        },
+        "montserratalternates:light-large": {
+            "file": "troy/fonts/MontserratAlternates-Light.ttf",
+            "size": 64
+        }
+    },
+    "music": {
+        "menu:intro" : "troy/musics/title_screen_intro.ogg",
+        "menu:loop" : "troy/musics/title_screen_loop.ogg"
+    }
+}

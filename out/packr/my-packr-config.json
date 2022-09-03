@@ -1,0 +1,19 @@
+{
+  "platform": "mac",
+  "jdk": "/Users/aidancampbell/Downloads/openjdk-11.0.2_osx-x64_bin.tar.gz",
+  "executable": "Escape From Troy",
+  "classpath": [
+    "/Users/aidancampbell/Desktop/School/CS/Java/3152/escape-from-troy/out/artifacts/escape_from_troy_jar/escape-from-troy.jar"
+  ],
+  "removelibs": [
+    "/Users/aidancampbell/Desktop/School/CS/Java/3152/escape-from-troy/out/artifacts/escape_from_troy_jar/escape-from-troy.jar"
+  ],
+  "mainclass": "com.mygdx.technicalprototype.desktop.DesktopLauncher",
+  "vmargs": [
+    "Xmx1G"
+  ],
+  "resources": [
+    "/Users/aidancampbell/Desktop/School/CS/Java/3152/escape-from-troy/core/assets"
+  ],
+  "output": "Escape From Troy.app"
+}
